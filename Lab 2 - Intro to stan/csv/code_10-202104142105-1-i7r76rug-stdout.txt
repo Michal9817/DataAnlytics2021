@@ -1,0 +1,18 @@
+method = generate_quantities
+  generate_quantities
+    fitted_params = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\code_1-202104142005-1-pqvw005k.csv
+id = 1
+data
+  file = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\31fzhlof.json
+init = 2 (Default)
+random
+  seed = 19920
+output
+  file = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\code_10-202104142105-1-i7r76rug.csv
+  diagnostic_file =  (Default)
+  refresh = 100 (Default)
+  sig_figs = -1 (Default)
+  profile_file = profile.csv (Default)
+
+Mismatch between model and fitted_parameters csv file "C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\code_1-202104142005-1-pqvw005k.csv"
+

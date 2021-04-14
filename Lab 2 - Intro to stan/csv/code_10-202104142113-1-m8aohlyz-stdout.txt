@@ -1,0 +1,16 @@
+method = generate_quantities
+  generate_quantities
+    fitted_params = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\code_7-202104142101-4-aq0395pe.csv
+id = 1
+data
+  file = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\35r70yvz.json
+init = 2 (Default)
+random
+  seed = 95837
+output
+  file = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\code_10-202104142113-1-m8aohlyz.csv
+  diagnostic_file =  (Default)
+  refresh = 100 (Default)
+  sig_figs = -1 (Default)
+  profile_file = profile.csv (Default)
+

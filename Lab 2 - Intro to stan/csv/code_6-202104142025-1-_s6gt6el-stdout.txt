@@ -1,0 +1,36 @@
+method = sample (Default)
+  sample
+    num_samples = 1
+    num_warmup = 0
+    save_warmup = 0 (Default)
+    thin = 1 (Default)
+    adapt
+      engaged = 1 (Default)
+      gamma = 0.050000000000000003 (Default)
+      delta = 0.80000000000000004 (Default)
+      kappa = 0.75 (Default)
+      t0 = 10 (Default)
+      init_buffer = 75 (Default)
+      term_buffer = 50 (Default)
+      window = 25 (Default)
+    algorithm = fixed_param
+id = 1
+data
+  file = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\51yny6vq.json
+init = 2 (Default)
+random
+  seed = 5178
+output
+  file = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\code_6-202104142025-1-_s6gt6el.csv
+  diagnostic_file =  (Default)
+  refresh = 100 (Default)
+  sig_figs = -1 (Default)
+  profile_file = profile.csv (Default)
+
+Standard deviation = 2.52346
+Iteration: 1 / 1 [100%]  (Sampling)
+
+ Elapsed Time: 0 seconds (Warm-up)
+               0 seconds (Sampling)
+               0 seconds (Total)
+

@@ -59,18 +59,18 @@ using stan::math::pow;
 stan::math::profile_map profiles__;
 static int current_statement__= 0;
 static const std::vector<string> locations_array__ = {" (found before start of program)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 27, column 3 to column 26)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 11, column 3 to column 21)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 12, column 3 to column 19)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 16, column 3 to column 15)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 17, column 3 to column 15)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 18, column 3 to column 14)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 20, column 3 to column 54)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 22, column 3 to column 44)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 4, column 8 to column 25)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 5, column 8 to column 74)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 6, column 8 to column 22)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_6.stan', line 3, column 69 to line 7, column 5)"};
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 27, column 3 to column 26)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 11, column 3 to column 21)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 12, column 3 to column 19)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 16, column 3 to column 15)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 17, column 3 to column 15)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 18, column 3 to column 14)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 20, column 3 to column 54)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 22, column 3 to column 44)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 4, column 8 to column 25)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 5, column 8 to column 74)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 6, column 8 to column 22)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_6.stan', line 3, column 69 to line 7, column 5)"};
 
 
 template <typename T0__, typename T1__, typename T2__>

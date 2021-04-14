@@ -1,0 +1,21 @@
+# stan_version_major = 2
+# stan_version_minor = 26
+# stan_version_patch = 1
+# model = code_10_model
+# method = generate_quantities
+#   generate_quantities
+#     fitted_params = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\code_1-202104142005-1-pqvw005k.csv
+# id = 1
+# data
+#   file = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\31fzhlof.json
+# init = 2 (Default)
+# random
+#   seed = 19920
+# output
+#   file = C:\Users\Studia\AppData\Local\Temp\tmpgr61_l4i\code_10-202104142105-1-i7r76rug.csv
+#   diagnostic_file =  (Default)
+#   refresh = 100 (Default)
+#   sig_figs = -1 (Default)
+#   profile_file = profile.csv (Default)
+# stanc_version = stanc3 v2.26.1
+# stancflags = 

@@ -59,8 +59,8 @@ using stan::math::pow;
 stan::math::profile_map profiles__;
 static int current_statement__= 0;
 static const std::vector<string> locations_array__ = {" (found before start of program)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_5.stan', line 2, column 4 to column 24)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_5.stan', line 5, column 4 to column 29)"};
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_5.stan', line 2, column 4 to column 24)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_5.stan', line 5, column 4 to column 29)"};
 
 
 

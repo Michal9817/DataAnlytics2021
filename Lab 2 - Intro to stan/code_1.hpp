@@ -59,13 +59,13 @@ using stan::math::pow;
 stan::math::profile_map profiles__;
 static int current_statement__= 0;
 static const std::vector<string> locations_array__ = {" (found before start of program)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_1.stan', line 8, column 3 to column 39)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_1.stan', line 9, column 3 to column 16)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_1.stan', line 11, column 7 to column 36)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_1.stan', line 10, column 18 to line 12, column 4)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_1.stan', line 10, column 3 to line 12, column 4)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_1.stan', line 2, column 3 to column 9)",
-                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/PUBLIC~1/DATAAN~1/LAB2-I~1/code_1.stan', line 9, column 13 to column 14)"};
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_1.stan', line 8, column 3 to column 39)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_1.stan', line 9, column 3 to column 16)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_1.stan', line 11, column 7 to column 36)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_1.stan', line 10, column 18 to line 12, column 4)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_1.stan', line 10, column 3 to line 12, column 4)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_1.stan', line 2, column 3 to column 9)",
+                                                      " (in 'C:/Users/Studia/DOCUME~1/GitHub/DATAAN~1/LAB2-I~1/code_1.stan', line 9, column 13 to column 14)"};
 
 
 
